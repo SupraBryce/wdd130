@@ -112,8 +112,8 @@ footer .social img {
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
 }
-.card-image {
-    border: 10px solid black
+.card-img {
+    border: 10px solid black;
 }
 main section img {
     box-sizing: border-box;
