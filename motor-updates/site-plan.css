@@ -8,10 +8,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
+  --primary-color: #DB1B22  ;
+  --secondary-color: #34090A ;
+  --accent1-color: #120303;
+  --accent2-color: #FEFEFE;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Kanit";
