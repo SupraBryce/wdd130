@@ -17,11 +17,13 @@ header {
     width: 100%;
 }
 #logo-link {
-    grid-column: 0 /1;
+    grid-column: 1/2;
 }
 .logo {
     margin-top: 10px;
     margin-bottom: 10px;
+    width: 200px;
+    height: 200px;
 }
 #logo-title {
     grid-column: 3 / 5;
