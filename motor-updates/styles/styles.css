@@ -224,11 +224,12 @@ h4 {
     border-radius: 10px;
     box-shadow: 5px 5px 5px solid black;
 }
-h5 {
+#finding-title {
     font-size: 50px;
     font-family: "bebas neue";
-    text-align: center;
     text-decoration: underline;
+    padding-top: 20px;
+    padding-left: 10px;
 }
 .text-block p {
     font-size: 35px;
